@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.hse.todo.MainActivity">
+    <item
+        android:id="@+id/add_tags"
+        android:orderInCategory="100"
+        android:title="@string/add_tags"
+
+        app:actionLayout="@layout/switch_item" />
+</menu>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="add_tags">Создать теги</string>
+    <string name="sort_due_date">Сортировать по дате</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Следующая</string>
+    <string name="previous">Предыдущая</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="tv_description">Testing this thing..</string>
+    <string name="tv_title">Title</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_todo_hint">например, Помыть посуду</string>
+    <string name="today_calendar_button">Сегодня</string>
+    <string name="empty_field">Пустая задача</string>
+    <string name="due_date_text">Дедлайн</string>
+    <string name="today">Сегодня</string>
+    <string name="tomorrow">Завтра</string>
+    <string name="this_wknd">Эти Выходные</string>
+    <string name="next_week">Следующая неделя</string>
+    <string name="radio_high">Высокий</string>
+    <string name="radio_med">Средний</string>
+    <string name="radio_low">Низкий</string>
+    <string name="image_description">button image</string>
+    <string name="about_text">Трекер задач</string>
+    <string name="add_todos">Добавить задачу...</string>
+</resources>

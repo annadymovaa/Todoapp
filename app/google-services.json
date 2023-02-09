@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979038071470",
+    "project_id": "todoister-b6298",
+    "storage_bucket": "todoister-b6298.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979038071470:android:ec2c2bb79e1de1e89b1b3f",
+        "android_client_info": {
+          "package_name": "com.hse.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979038071470-t8bgue6v05ujdu94fvh408od2q2b6imh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbyGlOA4rF4G7LVWPQunCcHLaekVrnaZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979038071470-t8bgue6v05ujdu94fvh408od2q2b6imh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
